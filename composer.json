@@ -1,0 +1,12 @@
+{
+    "name": "chris/mapper",
+    "authors": [
+        {
+            "name": "chrisevansvsoft",
+            "email": "chris.evans@visualsoft.co.uk"
+        }
+    ],
+    "require": {
+        "phpoption/phpoption": "^1.5"
+    }
+}
